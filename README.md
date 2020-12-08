@@ -14,7 +14,7 @@ $(".wrap").hide(); //$도 함수명임, var $ = jQuery
 0. Selector (선택자)
 
 1. Animation
-
+-꺄르륵
 2. DOM(Document Object Model)
 
 3. Attribute (html 속성 조작)
